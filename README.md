@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # THIS IS STILL IN DEVELOPMENT
+# AND IM STILL LEARNING RUST SO DONT EXPECT GOOD CODE
 
 **Braiins Controller** is a software tool that dynamically controls a BraiinsOS‑based miner based on real‑time power readings from a compatible energy monitoring device.  
 By continuously adjusting the miner’s operating parameters, it helps you optimise energy usage, reduce costs, or maintain a power budget – perfect for solar setups, demand‑response scenarios, or simply avoiding circuit overloads.
